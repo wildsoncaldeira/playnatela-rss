@@ -1,28 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WebTerra - Norte de Minas</title><link>https://webterra.com.br/categoria/norte-de-minas</link><description>Notícias do norte de Minas do WebTerra</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>pt-br</language><lastBuildDate>Fri, 28 Aug 2026 05:52:27 +0000</lastBuildDate><item><title>Banco do Brasil promove último dia de mutirão para financiamento de veículos em Minas</title><link>https://webterra.com.br/2026/08/27/banco-do-brasil-promove-ultimo-dia-de-mutirao-para-financiamento-de-veiculos-em-minas/</link><description>Ao todo, 100 agências do Banco do Brasil, distribuídas por 45 cidades mineiras, iniciaram o atendimento uma hora antes do horário convencional. A proposta é oferecer orientação aos clientes, esclarecer dúvidas e facilitar o acesso às linhas de financiamento do programa Move Brasil
-</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/smush-webp/2026/08/unnamed-1600x1200.jpg.webp" /><br><div class="flex max-w-full flex-col gap-4 grow">
-<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1" data-message-author-role="assistant" data-message-id="97c4cec3-be88-4752-bf44-c7f4e2cafb9d" data-message-model-slug="gpt-5-6" data-turn-start-message="true" dir="auto" tabindex="0">
-<div class="flex w-full flex-col gap-1 empty:hidden">
-<div class="fbskMG_root markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling">
-<p data-end="306" data-start="89">O Banco do Brasil realiza nesta quinta-feira (27) o segundo e último dia do <strong data-end="180" data-start="165">Move BB Day</strong>, mutirão destinado a clientes interessados em financiar veículos utilizados para trabalho e geração de renda em Minas Gerais.</p>
-<p data-end="525" data-start="308">A iniciativa é voltada principalmente à renovação de veículos, modernização das ferramentas de trabalho e apoio a profissionais e empreendedores que dependem de automóveis ou motocicletas para exercer suas atividades.</p>
-<p data-end="847" data-start="527">Ao todo, <a href="https://www.bb.com.br/docs/portal/secex/Dependencias_Move_BB_Day_retrato.pdf"><strong data-end="609" data-start="536">100 agências do Banco do Brasil, distribuídas por 45 cidades mineiras</strong></a>, iniciaram o atendimento uma hora antes do horário convencional durante os dias 26 e 27 de agosto. A proposta é oferecer orientação aos clientes, esclarecer dúvidas e facilitar o acesso às linhas de financiamento do programa Move Brasil.</p>
-<p data-end="1021" data-start="849">Nas demais unidades do banco, o atendimento ocorre normalmente, mas os clientes também podem procurar as agências para conhecer as condições disponíveis para financiamento.</p>
-<p data-end="1264" data-start="1023">Entre as opções oferecidas estão linhas destinadas a <strong data-end="1116" data-start="1076">motoristas de aplicativos e taxistas</strong>, além de modalidades específicas para <strong data-end="1263" data-start="1155">entregadores, mototaxistas, motofretistas e profissionais que trabalham por meio de plataformas digitais</strong>.</p>
-<p data-end="1464" data-start="1266">De acordo com o Banco do Brasil, a iniciativa busca aproximar as opções de crédito da realidade dos profissionais, permitindo que cada cliente avalie as condições antes de contratar o financiamento.</p>
-<h3 data-end="1498" data-section-id="1867t7b" data-start="1466">Condições para financiamento</h3>
-<p data-end="1805" data-start="1500">Para motoristas de aplicativos e taxistas, a linha <strong data-end="1585" data-start="1551">Move Brasil Táxi e Aplicativos</strong> oferece prazo de até 72 meses e possibilidade de carência de até seis meses. As taxas partem de <strong data-end="1739" data-start="1682">0,91% ao mês para mulheres e 0,99% ao mês para homens</strong>, com contratação disponível nas agências e pelo aplicativo do BB.</p>
-<p data-end="2063" data-start="1807">Já a modalidade <strong data-end="1861" data-start="1823">Move Brasil Entregadores e Motoapp</strong> atende entregadores, mototaxistas, motofretistas e profissionais de plataformas digitais. O prazo pode chegar a 48 meses, com dois meses de carência e financiamento de até 100% do valor da motocicleta.</p>
-<p data-end="2231" data-start="2065">As taxas começam em <strong data-end="2142" data-start="2085">0,90% ao mês para mulheres e 0,97% ao mês para homens</strong>. A contratação também pode ser feita nas agências ou pelo aplicativo do Banco do Brasil.</p>
-<p data-end="2322" data-start="2233">As condições estão sujeitas às regras de contratação e análise de crédito da instituição.</p>
-<p data-end="2458" data-is-last-node="" data-is-only-node="" data-start="2324">Em municípios onde houver feriado estadual ou municipal nos dias da ação, as agências permanecem fechadas conforme o calendário local.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="z-0 flex min-h-[46px] justify-start"></div>
-<div aria-hidden="true" class="pointer-events-none -mb-px h-px w-full opacity-0"></div>
-]]></content:encoded><guid isPermaLink="false">215732</guid><pubDate>Thu, 27 Aug 2026 10:07:16 +0000</pubDate></item><item><title>Prazo para entrar na lista de espera do Prouni termina nesta quinta-feira</title><link>https://webterra.com.br/2026/08/27/prazo-para-entrar-na-lista-de-espera-do-prouni-termina-nesta-quinta-feira/</link><description>Estudantes que não foram selecionados nas chamadas regulares têm até as 23h59 para manifestar interesse; lista será divulgada em 1º de setembro
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WebTerra - Norte de Minas</title><link>https://webterra.com.br/categoria/norte-de-minas</link><description>Notícias do norte de Minas do WebTerra</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>pt-br</language><lastBuildDate>Sat, 29 Aug 2026 03:25:13 +0000</lastBuildDate><item><title>Prazo para entrar na lista de espera do Prouni termina nesta quinta-feira</title><link>https://webterra.com.br/2026/08/27/prazo-para-entrar-na-lista-de-espera-do-prouni-termina-nesta-quinta-feira/</link><description>Estudantes que não foram selecionados nas chamadas regulares têm até as 23h59 para manifestar interesse; lista será divulgada em 1º de setembro
 </description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/uploads/2026/08/20230627_123448_0-e1787836960714.webp" /><br><p class="isSelectedEnd">Candidatos que não foram selecionados nas duas chamadas regulares do Programa Universidade para Todos (Prouni) em 2026 têm até as 23h59 desta quinta-feira (27) para manifestar interesse em participar da lista de espera.</p>
 <p class="isSelectedEnd">A etapa começou na quarta-feira (26) e também está disponível para estudantes que tiveram a inscrição reprovada porque a turma do curso escolhido ainda não foi formada.</p>
 <p class="isSelectedEnd">Para participar, o candidato deve acessar o Portal Único de Acesso ao Ensino Superior e registrar o interesse na lista de espera. O procedimento é gratuito.</p>
@@ -54,4 +31,56 @@
 <strong>Entrada:</strong> gratuita<br/>
 <strong>Público:</strong> produtores rurais, estudantes, profissionais do setor agropecuário e demais interessados</p>
 <p>As inscrições devem ser feitas previamente pela internet.</p>
-]]></content:encoded><guid isPermaLink="false">215744</guid><pubDate>Thu, 27 Aug 2026 10:34:32 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">215744</guid><pubDate>Thu, 27 Aug 2026 10:34:32 +0000</pubDate></item><item><title>Dia D de Multivacinação acontece neste sábado, em Montes Claros; confira os locais de vacinação</title><link>https://webterra.com.br/2026/08/28/dia-d-de-multivacinacao-acontece-neste-sabado-em-montes-claros-confira-os-locais-de-vacinacao/</link><description>Diferentemente de diversas cidades do país, que promoveram a ação no último sábado (22), o município norte-mineiro decidiu mudar a data devido a questões logísticas.
+</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/smush-webp/2026/08/Montes-Claros-Vacinacao-Foto-Fabio-Marcal-1600x1063.jpg.webp" /><br><p>Neste sábado, dia 29 de agosto, será realizada, em Montes Claros, a Campanha de Multivacinação. Diferentemente de diversas cidades do país, que promoveram a ação no último sábado (22), o município norte-mineiro decidiu mudar a data devido a questões logísticas.</p>
+<p>A campanha é destinada a crianças e adolescentes menores de 14 anos que ainda não receberam todas as vacinas previstas no Calendário Nacional de Vacinação de 2026 ou que estejam com o esquema vacinal incompleto. Durante a campanha, estarão disponíveis todas as vacinas previstas no calendário nacional para crianças e adolescentes, conforme a faixa etária e as recomendações do Ministério da Saúde.</p>
+<p><strong>Entre as vacinas disponíveis estão:</strong> BCG (tuberculose); tríplice viral; poliomielite inativada; rotavírus; pneumocócica 10-valente (conjugada); meningocócica C (conjugada); meningocócica ACWY (conjugada); influenza; Covid-19; febre amarela; Papilomavírus Humano (HPV), varicela; DTP, hepatites B e A.</p>
+<p> </p>
+<h2><strong>Confira os locais de vacinação:</strong></h2>
+<p>USF Aliança – Rua E, 29 – Monte Sião</p>
+<p>USF José Corrêa Machado – Rua K, 81</p>
+<p>USF Antônio Pimenta – Rua Rosa Mendes Ferreira, 336</p>
+<p>USF Vitória – Rua Dezessete, 350 – Conjunto Vitória II</p>
+<p>USF Delfino Magalhães – Av. Neco Delfino, 289</p>
+<p>USF Eldorado – Rua Antônio Moreno, 417</p>
+<p>USF Esplanada – Rua Cel. Coelho, 195</p>
+<p>USF Independência – Rua Espanha, 150</p>
+<p>USF Jardim Primavera – Rua Três, 905</p>
+<p>USF Leslie Charles Scofield Júnior – Rua Venâncio Flores, 301 – Independência</p>
+<p>USF Lourdes – Rua Geovane Soares da Cruz, 647</p>
+<p>USF Major Prates – Av. Olímpio Prates, 773</p>
+<p>USF Maracanã – Avenida Brasília, 724</p>
+<p>USF Eduardo Vasconcelos – Rua Melo Viana, 550 – Morrinhos</p>
+<p>USF Nova Suíça – Rua Itália, 1055</p>
+<p>USF Planalto – Rua Espírito Santo, 389</p>
+<p>UBS Olga Ribeiro da Silva – Avenida Bio Lopes</p>
+<p>USF Santa Lúcia – Rua Olivina, 240</p>
+<p>USF Santos Reis – Rua Marcos Ribeiro, 167</p>
+<p>USF São Geraldo II – Rua R, 210</p>
+<p>USF São Judas – Rua Padre Vieira, 620</p>
+<p> </p>
+<p><strong>Das 8h às 17h:</strong></p>
+<p>USF Vargem Grande – Rua Quinze, 71 – Joaquim Costa</p>
+<p>USF Vera Cruz – Rua Euclidson Novaes, s/n</p>
+<p>USF Vila Campos – Rua G, 246</p>
+<p>USF Vila Oliveira – Rua Maria Conceição, 245 – Vila Mauricéia</p>
+<p>USF Vila Sion – Rua José Maria Silva, 131</p>
+<p>USF Vilage do Lago – Av. Perimetral, 2546 – Vilage do Lago II</p>
+<p>UBS Walquíria Pereira – Av. Sidney Chaves, 1279</p>
+<p> </p>
+<p><strong>Das 8h às 16h:</strong></p>
+<p>USF Valdomiro Soares Machado – Av. Joaquim de Abreu, 245</p>
+<p>Vacimóvel I – Unidade Móvel</p>
+<p>Vacimóvel II – Unidade Móvel</p>
+<p> </p>
+<p><strong>Das 10h às 20h:</strong></p>
+<p>Shopping Montes Claros – Av. Donato Quintino, 90 – Cidade Nova</p>
+]]></content:encoded><guid isPermaLink="false">215814</guid><pubDate>Fri, 28 Aug 2026 09:24:25 +0000</pubDate></item><item><title>Atendimento jurídico gratuito: OAB na Praça acontece neste sábado em Montes Claros</title><link>https://webterra.com.br/2026/08/28/atendimento-juridico-gratuito-oab-na-praca-acontece-neste-sabado-em-montes-claros/</link><description>A ação será realizada das 8h às 12h, na Praça Dr. Carlos Versiane, com atendimento e orientação jurídica gratuita à população.
+</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-scaled.jpeg" /><br><p>A OAB Montes Claros realiza, neste sábado (29), mais uma edição do projeto “OAB na Praça”. A ação será realizada das 8h às 12h, na Praça Dr. Carlos Versiane, com atendimento e orientação jurídica gratuita à população. O evento marca o encerramento da programação do Mês da Advocacia.</p>
+<p>Durante a manhã, advogados e acadêmicos de Direito estarão no local para oferecer orientações jurídicas gratuitas em diferentes áreas do Direito. A ação também contará com outros serviços disponibilizados pelas instituições parceiras do projeto.</p>
+<figure aria-describedby="caption-attachment-215858" class="wp-caption alignnone" id="attachment_215858" style="width: 400px"><img alt="" class="size-medium wp-image-215858" data-smush-webp-fallback='{"src":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-400x300.jpeg","srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-400x300.jpeg 400w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-1024x768.jpeg 1024w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-768x576.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-1536x1152.jpeg 1536w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-2048x1536.jpeg 2048w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-280x210.jpeg 280w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-560x420.jpeg 560w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-450x338.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-780x585.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-1600x1200.jpeg 1600w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-150x113.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/08\/WhatsApp-Image-2026-08-28-at-13.51.19-scaled.jpeg 1280w"}' decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 400px) 100vw, 400px" src="https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-400x300.jpeg.webp" srcset="https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-400x300.jpeg.webp 400w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-1024x768.jpeg.webp 1024w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-768x576.jpeg.webp 768w, https://webterra.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-1536x1152.jpeg 1536w, https://webterra.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-2048x1536.jpeg 2048w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-280x210.jpeg.webp 280w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-560x420.jpeg.webp 560w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-450x338.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-780x585.jpeg.webp 780w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-1600x1200.jpeg.webp 1600w, https://webterra.com.br/wp-content/smush-webp/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-150x113.jpeg.webp 150w, https://webterra.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-28-at-13.51.19-scaled.jpeg 1280w" width="400"/><figcaption class="wp-caption-text" id="caption-attachment-215858">Foto: Divulgação</figcaption></figure>
+<p>O “OAB na Praça” integra as iniciativas da OAB Montes Claros voltadas à aproximação da advocacia com a sociedade e à ampliação do acesso à informação e à orientação jurídica . Esta edição encerra a programação do Mês da Advocacia, período marcado por uma série de eventos, ações e atividades promovidas pela 11ª Subseção.</p>
+<p>Segundo o presidente da OAB Montes Claros, Herbert Alcântara, a realização do projeto em diferentes espaços da cidade reforça o compromisso da instituição com a população.</p>
+<blockquote><p>“Encerrar o Mês da Advocacia com mais uma edição do OAB na Praça tem um significado muito especial. Ao longo de todo o mês, promovemos uma programação voltada à valorização da advocacia e à integração da nossa classe. Agora, fechamos esse período levando a OAB para perto da população, oferecendo informação, orientação e serviços.”, destaca.</p></blockquote>
+<p>O projeto também contará com a participação de instituições educacionais parceiras, com serviços de saúde, como aferição de pressão, massagens e oferta de serviços e atendimentos durante a ação.</p>
+]]></content:encoded><guid isPermaLink="false">215856</guid><pubDate>Fri, 28 Aug 2026 14:11:15 +0000</pubDate></item></channel></rss>

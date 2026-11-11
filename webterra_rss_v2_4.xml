@@ -1,416 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WebTerra - Norte de Minas</title><link>https://webterra.com.br/categoria/norte-de-minas</link><description>Notícias do norte de Minas do WebTerra</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>pt-br</language><lastBuildDate>Wed, 11 Nov 2026 13:11:50 +0000</lastBuildDate><item><title>Inmet emite alerta de tempestade para Montes Claros e outras cidades da região nesta segunda-feira (9); veja quais</title><link>https://webterra.com.br/2026/11/09/inmet-emite-alerta-de-tempestade-para-montes-claros-e-outras-cidades-da-regiao-nesta-segunda-feira-9-veja-quais/</link><description>Segundo o Inmet, há previsão de chuva entre 20 e 30 milímetros por hora ou de 50 milímetros por dia, além de ventos intensos, com velocidades entre 40 e 60 quilômetros por hora, e possibilidade de queda de granizo.
-</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/smush-webp/2026/10/inmet-alerta-para-tempestades-no-norte-de-minas-montes-claros-pode-ter-pancadas-de-chuva-e-trovoadas.jpeg.webp" /><br><div id="chunk-fpc7v">
-<div class="mc-column content-text active-extra-styles" data-block-id="3" data-block-type="unstyled" data-block-weight="46">
-<p class="content-text__container" data-mrf-recirculation="Matéria - Links no Texto" data-track-category="Link no Texto" data-track-links="">O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta de perigo potencial para tempestade válido nesta segunda-feira (9) em Montes Claros, e dezenas de outras cidades das regiões Norte. O aviso começa à 09h27 e segue até as 23h59.</p>
-</div>
-</div>
-<div class="wall protected-content">
-<div id="chunk-dh7ve">
-<div class="mc-column content-text active-extra-styles" data-block-id="5" data-block-type="unstyled" data-block-weight="41">
-<p class="content-text__container" data-mrf-recirculation="Matéria - Links no Texto" data-track-category="Link no Texto" data-track-links="">Segundo o Inmet, há previsão de chuva entre 20 e 30 milímetros por hora ou de 50 milímetros por dia, além de ventos intensos, com velocidades entre 40 e 60 quilômetros por hora, e possibilidade de queda de granizo.</p>
-<div id="chunk-88dhq">
-<div class="mc-column content-text active-extra-styles" data-block-id="7" data-block-type="unstyled" data-block-weight="20">
-<p class="content-text__container" data-mrf-recirculation="Matéria - Links no Texto" data-track-category="Link no Texto" data-track-links="">De acordo com o Inmet, há baixo risco de corte de energia elétrica, estragos em plantações, queda de árvores e alagamentos.</p>
-</div>
-</div>
-<p>O Inmet recomenda que, durante rajadas de vento, as pessoas evitem se abrigar debaixo de árvores, devido ao risco de queda e de descargas elétricas, e não estacionem veículos próximos a torres de transmissão e placas de propaganda. Também é orientado evitar o uso de aparelhos eletrônicos conectados à tomada.</p>
-<p>Em situações de emergência, a população pode acionar a Defesa Civil pelo telefone 199 e o Corpo de Bombeiros pelo telefone 193.</p>
-<table id="tabela-legenda">
-<tbody>
-<tr>
-<td><img alt="Perigo Potencial" class="img-cor" decoding="async" src="data:image/png;base64,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"/></td>
-<td>Perigo Potencial. Situação meteorológica potencialmente perigosa. Cuidado na prática de atividades sujeitas a riscos de caráter meteorológico. Mantenha-se informado sobre as condições meteorológicas previstas e não corra risco desnecessário.</td>
-</tr>
-</tbody>
-</table>
-</div>
-<h2>Confira a previsão do tempo para Montes Claros</h2>
-<ul>
-<li><strong>Segunda-feira (9):</strong> mínima de 17°C e máxima de 27°C – Muitas nuvens com pancadas de chuva e trovoadas isoladas</li>
-<li><strong>Terça-feira(10):</strong> mínima de 15°C e máxima de 23°C – Muitas nuvens com pancadas de chuva e trovoadas isoladas</li>
-<li><strong>Quarta-feira(11):</strong> mínima de 15°C e máxima de 26°C – Muitas nuvens</li>
-<li><strong>Quinta-feira (12):</strong> mínima de 16°C e máxima de 29°C – Muitas nuvens</li>
-<li><strong>Sexta-feira (12):</strong> mínima de 16°C e máxima de 31°C – Muitas nuvens</li>
-</ul>
-</div>
-<h2 class="x1ghz6dp x1717udv x1wty727 x4gjf66 xce2ely xvmwfg3 x1lziwak x15472z4 x1603h9y xladpa3 x1lliihq x1s688f x14rh7hd" data-d-component="title"><span data-d-streaming-word="">Açerta em cidades do</span> <span data-d-streaming-word="">Norte</span> <span data-d-streaming-word="">de</span> <span data-d-streaming-word="">Minas</span></h2>
-<ol class="x78zum5 xdt5ytf xeuugli x1717udv x1ghz6dp x11v4sto x10of0ok xe8uvvx xy09zc5 x1ovvlb x1kw3rcc x104jwf5 x1lziwak x15472z4 x43c9pm xld8u84 x3yw8vx" data-d-component="list" data-d-marker="number" data-d-marker-layout="native" role="list">
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Bocaiuva</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Brasília</span> <span data-d-streaming-word="">de</span> <span data-d-streaming-word="">Minas</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Buenópolis</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Buritizeiro</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Campo</span> <span data-d-streaming-word="">Azul</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Claro</span> <span data-d-streaming-word="">dos</span> <span data-d-streaming-word="">Poções</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Coração</span> <span data-d-streaming-word="">de</span> <span data-d-streaming-word="">Jesus</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Engenheiro</span> <span data-d-streaming-word="">Navarro</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Francisco</span> <span data-d-streaming-word="">Dumont</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Francisco</span> <span data-d-streaming-word="">Sá</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Glaucilândia</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Guaraciama</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Ibiaí</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Icaraí</span> <span data-d-streaming-word="">de</span> <span data-d-streaming-word="">Minas</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Itacambira</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Jaíba</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Janaúba</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Januária</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Japonvar</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Jequitaí</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Joaquim</span> <span data-d-streaming-word="">Felício</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Juramento</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Lagoa</span> <span data-d-streaming-word="">dos</span> <span data-d-streaming-word="">Patos</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Lassance</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Lontra</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Luislândia</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Manga</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Matias</span> <span data-d-streaming-word="">Cardoso</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Mirabela</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Miravânia</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Montalvânia</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Montes</span> <span data-d-streaming-word="">Claros</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Olhos-d’Água</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Patis</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Pedras</span> <span data-d-streaming-word="">de</span> <span data-d-streaming-word="">Maria</span> <span data-d-streaming-word="">da</span> <span data-d-streaming-word="">Cruz</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Pirapora</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Pintópolis</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Ponto</span> <span data-d-streaming-word="">Chique</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Santa</span> <span data-d-streaming-word="">Fé</span> <span data-d-streaming-word="">de</span> <span data-d-streaming-word="">Minas</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">São</span> <span data-d-streaming-word="">Francisco</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">São</span> <span data-d-streaming-word="">João</span> <span data-d-streaming-word="">da</span> <span data-d-streaming-word="">Lagoa</span></p>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">São</span> <span data-d-streaming-word="">João</span> <span data-d-streaming-word="">da</span> <span data-d-streaming-word="">Ponte</span></p>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">São</span> <span data-d-streaming-word="">João</span> <span data-d-streaming-word="">do</span> <span data-d-streaming-word="">Pacuí</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">São</span> <span data-d-streaming-word="">Romão</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Ubaí</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Urucuia</span></p>
-</div>
-</div>
-</li>
-<li class="x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5" data-d-component="list-item" data-d-marker-layout="native">
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">Várzea</span> <span data-d-streaming-word="">da</span> <span data-d-streaming-word="">Palma</span></p>
-</div>
-</div>
-</li>
-</ol>
-<div class="x78zum5 xdt5ytf x12lumcd xeuugli">
-<div>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text"><span data-d-streaming-word="">48.Varzelândia</span></p>
-<p class="x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd" data-d-component="text" style="text-align: left;">49. São João das Missões</p>
-</div>
-</div>
-</div>
-]]></content:encoded><guid isPermaLink="false">219588</guid><pubDate>Mon, 09 Nov 2026 12:05:28 +0000</pubDate></item><item><title>UFMG abre seleção inédita para pessoas trans e travestis com 87 vagas na graduação</title><link>https://webterra.com.br/2026/11/10/ufmg-abre-selecao-inedita-para-pessoas-trans-e-travestis-com-87-vagas-na-graduacao/</link><description>Processo seletivo oferece oportunidades em Belo Horizonte e Montes Claros, com ingresso previsto para 2027; inscrições gratuitas seguem até 11 de dezembro
-</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/uploads/2026/11/36821871-C12F-45B3-9F60-80C22620E2E8-e1794305957775.png" /><br><p>A Universidade Federal de Minas Gerais (UFMG) está com inscrições abertas para o primeiro processo seletivo destinado exclusivamente a pessoas trans e travestis que desejam ingressar em cursos presenciais de graduação. Ao todo, são oferecidas 87 vagas adicionais, sendo 80 em Belo Horizonte e sete em Montes Claros. O ingresso está previsto para o primeiro semestre de 2027.</p>
-<p>As inscrições são gratuitas e podem ser realizadas até as 17h do dia 11 de dezembro. A iniciativa faz parte de uma política de ação afirmativa aprovada pelo Conselho Universitário em março deste ano, que estabeleceu a criação de pelo menos uma vaga adicional em cada curso de graduação da instituição.</p>
-<p>Por serem vagas extras, a nova modalidade não interfere na quantidade de oportunidades oferecidas pelos processos seletivos regulares da universidade.</p>
-<p><strong>Quem pode participar</strong></p>
-<p>Podem se inscrever pessoas que se autodeclarem trans ou travestis, incluindo identidades transexuais, transgêneras, transmasculinas e não binárias. Entre os requisitos estão ter pelo menos 18 anos até 9 de novembro de 2026, possuir renda familiar bruta mensal de até um salário mínimo por pessoa e ter concluído o ensino médio até a data do registro acadêmico.</p>
-<p>Também é obrigatório ter participado de pelo menos uma edição do Exame Nacional do Ensino Médio (Enem) entre 2022 e 2026.</p>
-<p>A classificação será feita com base na maior nota obtida nas edições do Enem consideradas pelo edital. Para concorrer, o candidato deverá alcançar pelo menos 30 pontos na nota final, obter no mínimo 300 pontos na redação e não zerar nenhuma das provas.</p>
-<p>Para alguns cursos, como Artes Visuais, Cinema de Animação e Artes Digitais, Design de Moda e Música, também serão aplicadas provas específicas de habilidades, previstas para os dias 29 e 31 de janeiro de 2027.</p>
-<p>O resultado final está previsto para 22 de fevereiro.</p>
-<p><strong>Avaliação e documentação</strong></p>
-<p>Os candidatos classificados passarão por uma Comissão Complementar à Autodeclaração, responsável por validar a participação na política de ação afirmativa.</p>
-<p>A comprovação poderá ocorrer por meio de documento de identidade com nome social ou certidão de nascimento retificada, acompanhada da respectiva certidão de inteiro teor. Caso não possuam esses documentos, os candidatos poderão passar por entrevista para avaliação do reconhecimento e da vivência social da identidade de gênero.</p>
-<p>O edital não permite a exigência de laudos médicos, documentos biomédicos ou pareceres profissionais como condição para comprovar a identidade de gênero.</p>
-<p><strong>Acolhimento dos estudantes</strong></p>
-<p>Além da ampliação do acesso, a universidade prevê ações voltadas ao acolhimento e à permanência dos novos estudantes durante a formação acadêmica.</p>
-<p>Segundo a pró-reitora de Graduação da UFMG, professora Sueli Maria Coelho, a seleção representa um marco na política de democratização do ensino superior da instituição e também permitirá avaliar os procedimentos adotados para aprimorar futuras iniciativas de inclusão.</p>
-<p>O edital completo, a relação de cursos, a distribuição das vagas e os critérios de participação estão disponíveis no site da Comissão Permanente do Vestibular (<a href="https://site.copeve.ufmg.br/">Copeve</a>), da UFMG.</p>
-]]></content:encoded><guid isPermaLink="false">219619</guid><pubDate>Tue, 10 Nov 2026 07:20:12 +0000</pubDate></item><item><title>São Francisco registra 72 milímetros de chuva em uma hora e alaga ruas, casas e CEMEIs, diz Defesa Civil</title><link>https://webterra.com.br/2026/11/10/sao-francisco-registra-72-mm-de-chuva-em-uma-hora-e-alaga-ruas-casas-e-cemeis-diz-defesa-civil/</link><description>Defesa Civil atendeu cerca de 25 famílias; moradores tiveram prejuízos com móveis e eletrodomésticos após temporal.
-</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20.jpeg" /><br><div id="chunk-2ub77">
-<div class="mc-column content-text active-extra-styles" data-block-id="2" data-block-type="unstyled" data-block-weight="20">
-<p class="x12ofw9d">Uma forte chuva atingiu São Francisco, no Norte de Minas, no início da noite de segunda-feira (9), provocando alagamentos em diversos pontos da cidade. A tempestade começou por volta das 18h e assustou moradores. Em algumas casas, a água chegou a atingir um metro de altura.</p>
-<p data-mrf-recirculation="Matéria - Links no Texto" data-track-category="Link no Texto" data-track-links="" style="text-align: left;">Segundo o coordenador da Defesa Civil Municipal, Romenig Barbosa Martins, foram registrados cerca de 72 milímetros de chuva em apenas uma hora. Depois, a chuva continuou, mas com menor intensidade.</p>
-<figure aria-describedby="caption-attachment-219629" class="wp-caption alignnone" id="attachment_219629" style="width: 300px"><img alt="" class="size-medium wp-image-219629" data-smush-webp-fallback='{"src":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20-300x400.jpeg","srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20-300x400.jpeg 300w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20-768x1024.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20-450x600.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20-780x1040.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20-640x853.jpeg 640w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20-150x200.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.20.jpeg 960w"}' decoding="async" height="400" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20-300x400.jpeg.webp" srcset="https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20-300x400.jpeg.webp 300w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20-768x1024.jpeg.webp 768w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20-450x600.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20-780x1040.jpeg.webp 780w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20-640x853.jpeg.webp 640w, https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20-150x200.jpeg 150w, https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-09.16.20.jpeg 960w" width="300"/><figcaption class="wp-caption-text" id="caption-attachment-219629"><strong>Foto: Defesa Civil São Francisco</strong></figcaption></figure>
-<p> </p>
-<p class="x12ofw9d">Diversos bairros foram afetados, entre eles Sagrada Família, Centro, São José, Santo Antônio e Jardim Realito. Ao todo, 25 famílias receberam atendimento da Defesa Civil.</p>
-<p data-mrf-recirculation="Matéria - Links no Texto" data-track-category="Link no Texto" data-track-links="">Ainda conforme a Defesa Civil, os moradores deixaram as casas durante a tempestade e retornaram depois que o nível da água baixou. Apenas uma família precisou deixar a própria casa.</p>
-</div>
-</div>
-<p class="x12ofw9d">Os impactos da chuva também atingiram unidades de ensino do município. As aulas foram suspensas nesta terça-feira (10) no CEMEI Monteiro Lobato e no CEMEI Pedacinho do Céu.</p>
-<p class="x12ofw9d">De acordo com o coordenador da Defesa Civil, as duas unidades ficaram alagadas durante a tempestade e passarão por serviços de limpeza antes da retomada das atividades.</p>
-<figure aria-describedby="caption-attachment-219632" class="wp-caption alignnone" id="attachment_219632" style="width: 400px"><img alt="" class="size-medium wp-image-219632" data-smush-webp-fallback='{"srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.18-400x225.jpeg 400w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.18-1024x576.jpeg 1024w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.18-768x432.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.18-450x253.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.18-780x439.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.18-150x84.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-10-at-09.16.18.jpeg 1280w"}' decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 400px) 100vw, 400px" src="https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18-400x225.jpeg" srcset="https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18-400x225.jpeg 400w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18-1024x576.jpeg.webp 1024w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18-768x432.jpeg.webp 768w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18-450x253.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18-780x439.jpeg.webp 780w, https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18-150x84.jpeg 150w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-10-at-09.16.18.jpeg.webp 1280w" width="400"/><figcaption class="wp-caption-text" id="caption-attachment-219632"><strong>Foto: Defesa Civil São Francisco</strong></figcaption></figure>
-<h2 style="text-align: left;">Alerta no Município</h2>
-<p style="text-align: left;">A Prefeitura de São Francisco, no Norte de Minas, emitiu um alerta para o risco de cheias no município após o aumento rápido do nível de córregos e afluentes em decorrência das fortes chuvas registradas nesta segunda-feira (9).</p>
-<figure aria-describedby="caption-attachment-219628" class="wp-caption alignnone" id="attachment_219628" style="width: 400px"><img alt="" class="size-medium wp-image-219628" data-smush-webp-fallback='{"src":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-400x300.jpeg","srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-400x300.jpeg 400w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-1024x768.jpeg 1024w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-768x576.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-1536x1152.jpeg 1536w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-280x210.jpeg 280w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-560x420.jpeg 560w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-450x338.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-780x585.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1-150x113.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/llll-1.jpeg 1280w"}' decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 400px) 100vw, 400px" src="https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1-400x300.jpeg.webp" srcset="https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1-400x300.jpeg.webp 400w, https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1-1024x768.jpeg.webp 1024w, https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1-768x576.jpeg.webp 768w, https://webterra.com.br/wp-content/uploads/2026/11/llll-1-1536x1152.jpeg 1536w, https://webterra.com.br/wp-content/uploads/2026/11/llll-1-280x210.jpeg 280w, https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1-560x420.jpeg.webp 560w, https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1-450x338.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1-780x585.jpeg.webp 780w, https://webterra.com.br/wp-content/uploads/2026/11/llll-1-150x113.jpeg 150w, https://webterra.com.br/wp-content/smush-webp/2026/11/llll-1.jpeg.webp 1280w" width="400"/><figcaption class="wp-caption-text" id="caption-attachment-219628">Foto: Defesa Civil São Francisco</figcaption></figure>
-<p style="text-align: left;">Em comunicado, a administração municipal orientou moradores de áreas baixas e com risco de inundação a redobrarem os cuidados.</p>
-<blockquote>
-<p style="text-align: left;"><em>“A Defesa Civil Municipal segue monitorando o nível do Rio São Francisco e o volume de chuvas para acompanhar a situação e garantir a segurança da população”, disse a nota</em></p>
-</blockquote>
-<p style="text-align: left;">A prefeitura orienta que moradores de áreas de risco retirem móveis e outros pertences com antecedência, evitem permanecer em locais sujeitos a inundações e procurem um lugar seguro.</p>
-<p style="text-align: left;">Ainda conforme a Defesa Civil há previsão de chuvas para a cidade nesta terça-feira (10).</p>
-]]></content:encoded><guid isPermaLink="false">219624</guid><pubDate>Tue, 10 Nov 2026 09:45:06 +0000</pubDate></item><item><title>Equipe de vôlei Sub-17 promove rifa para arrecadar recursos e disputar o Campeonato Mineiro</title><link>https://webterra.com.br/2026/11/10/equipe-de-volei-sub-17-promove-rifa-para-arrecadar-recursos-e-disputar-o-campeonato-mineiro/</link><description>Iniciativa busca ajudar nos custos da competição e mobiliza a comunidade para apoiar os jovens atletas na realização do sonho de representar a equipe no torneio estadual
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WebTerra - Norte de Minas</title><link>https://webterra.com.br/categoria/norte-de-minas</link><description>Notícias do norte de Minas do WebTerra</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>pt-br</language><lastBuildDate>Wed, 11 Nov 2026 21:39:15 +0000</lastBuildDate><item><title>Equipe de vôlei Sub-17 promove rifa para arrecadar recursos e disputar o Campeonato Mineiro</title><link>https://webterra.com.br/2026/11/10/equipe-de-volei-sub-17-promove-rifa-para-arrecadar-recursos-e-disputar-o-campeonato-mineiro/</link><description>Iniciativa busca ajudar nos custos da competição e mobiliza a comunidade para apoiar os jovens atletas na realização do sonho de representar a equipe no torneio estadual
 </description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-12.14.42-1.jpeg" /><br><p>Jovens atletas de vôlei da categoria Sub-17 estão mobilizando uma campanha para arrecadar recursos e viabilizar a participação no Campeonato Mineiro da categoria. Para ajudar a custear as despesas da competição, a equipe está promovendo uma rifa e conta com o apoio da comunidade.</p>
 <p>A iniciativa busca reunir recursos para que os jogadores possam disputar o torneio estadual e dar mais um passo na trajetória esportiva. A campanha também incentiva a participação de apoiadores por meio da compra de números da rifa e do compartilhamento da iniciativa.</p>
 <p>Além de contribuir financeiramente, a mobilização pretende dar visibilidade ao trabalho desenvolvido com os jovens atletas e fortalecer o incentivo ao esporte de base.</p>
@@ -431,4 +20,81 @@
 <p class="x12ofw9d" style="text-align: left;"><!--comp--><!--for--><!--it--><!--if-->A inscrição deve ser feita pelos pais ou responsáveis ou pelo próprio estudante, caso tenha 18 anos ou mais. Quem não tiver acesso à internet pode procurar uma escola estadual ou municipal participante para receber ajuda.<!--/if--><!--/it--><!--/for--><!--/comp--></p>
 <p style="text-align: left;"><!--/it--><!--it--></p>
 <p style="text-align: left;">Mais informações podem ser consultadas na íntegra da Resolução SEE nº 5.325/2026, que regulamenta o processo de cadastro e matrícula, disponível <a class="link" href="https://www.educacao.mg.gov.br/wp-content/uploads/2026/10/SEI_151234187_Resolucao_SEE_N__5325_2026.pdf" rel="noopener" target="_blank">neste link</a>.</p>
-]]></content:encoded><guid isPermaLink="false">219669</guid><pubDate>Tue, 10 Nov 2026 15:22:33 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">219669</guid><pubDate>Tue, 10 Nov 2026 15:22:33 +0000</pubDate></item><item><title>Seleções temporárias oferecem vagas para profissionais da Saúde e motoristas em Montes Claros</title><link>https://webterra.com.br/2026/11/11/selecoes-temporarias-oferecem-vagas-para-profissionais-da-saude-e-motoristas-em-montes-claros/</link><description>Editais disponibilizam oportunidades em 14 especialidades da área da Saúde e 59 vagas para motoristas; salários chegam a R$ 5,5 mil
+</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/smush-webp/2026/11/Montes-Claros-Nova-Prefeitura-26-04-21-Foto-Fabio-Marcal-04-1-1600x887.jpg.webp" /><br><div>Dois processos seletivos simplificados estão com inscrições previstas para novembro em Montes Claros, com oportunidades de contratação temporária e formação de cadastro de reserva. As seleções contemplam profissionais da área da Saúde e motoristas com habilitação na categoria D. As remunerações variam de R$ 1.778,15 a R$ 5.551,46, conforme a função.</div>
+<div>
+<p><strong>Vagas para profissionais da Saúde</strong></p>
+<p>O Edital nº 003/2026 reúne oportunidades em 14 cargos, distribuídos entre funções técnicas e especialidades médicas:</p>
+<ul>
+<li>Auxiliar de Consultório Dentário: 45 vagas;</li>
+<li>Enfermeiro com Especialidade em Saúde Mental: 2 vagas;</li>
+<li>Técnico em Prótese Dentária: 1 vaga;</li>
+<li>Técnico em Enfermagem: 32 vagas;</li>
+<li>Odontólogo: 2 vagas;</li>
+<li>Médico Angiologista: 1 vaga;</li>
+<li>Médico Clínico Geral: 6 vagas;</li>
+<li>Médico Epidemiologista: 1 vaga;</li>
+<li>Médico Geneticista: 1 vaga;</li>
+<li>Médico Neurologista: 3 vagas;</li>
+<li>Médico Pneumologista: 1 vaga;</li>
+<li>Médico Plantonista – Pediatra: 6 vagas;</li>
+<li>Médico Ultrassonografista: 1 vaga;</li>
+<li>Médico Urologista: 3 vagas.</li>
+</ul>
+<p>Os vencimentos vão de R$ 1.778,15 a R$ 5.551,46, para jornadas de 20 a 40 horas semanais. A classificação será feita por análise da formação e da experiência profissional dos candidatos.</p>
+<p>Parte das oportunidades para Auxiliar de Consultório Dentário e Técnico em Enfermagem será destinada a unidades da zona rural, com preferência para profissionais que residam nas localidades atendidas.</p>
+<p>As inscrições poderão ser realizadas de 19 a 30 de novembro, pelo portal oficial do município.</p>
+<p><strong>Seleção também oferece 59 vagas para motoristas</strong></p>
+<p>Já o Edital nº 004/2026 prevê a contratação de motoristas com Carteira Nacional de Habilitação (CNH) categoria D. São 59 vagas, divididas entre as seguintes funções:</p>
+<ul>
+<li>Motorista de veículos leves, utilitários e caminhões: 15 vagas;</li>
+<li>Motorista de caminhão compactador: 22 vagas;</li>
+<li>Motorista de transporte escolar: 22 vagas.</li>
+</ul>
+<p>A remuneração será de R$ 2.213,38, para jornada de 40 horas semanais. Os candidatos devem possuir Ensino Fundamental.</p>
+<p>Nesse processo, a classificação considerará o tempo de experiência profissional e a pontuação obtida em prova prática. Para as vagas de transporte escolar, também será exigido o Curso Especializado para Condutores de Veículos de Transporte Escolar, conforme as normas do Conselho Nacional de Trânsito (Contran).</p>
+<p>O prazo de inscrição será de 17 a 23 de novembro, pelo portal oficial da Prefeitura.</p>
+<p><strong>Onde consultar os editais</strong></p>
+<p>Os documentos completos foram publicados na edição de 10 de novembro do Diário Oficial do Município e podem ser consultados pelo endereço diariooficial.montesclaros.mg.gov.br.</p>
+<p>Quem não tiver acesso à internet poderá utilizar um computador disponibilizado no hall de entrada da sede administrativa, na Avenida Cula Mangabeira, nº 211. O atendimento será de segunda a sexta-feira, exceto feriados, das 9h às 17h, das 9h às 17h.</p>
+</div>
+]]></content:encoded><guid isPermaLink="false">219710</guid><pubDate>Wed, 11 Nov 2026 10:31:54 +0000</pubDate></item><item><title>Montes Claros terá cursos gratuitos de pedreiro e manutenção de ar-condicionado em janeiro</title><link>https://webterra.com.br/2026/11/11/montes-claros-tera-cursos-gratuitos-de-pedreiro-e-manutencao-de-ar-condicionado-em-janeiro/</link><description>Capacitações serão oferecidas pelo IFNMG em parceria com o município e são destinadas a pessoas com mais de 18 anos inscritas no CadÚnico
+</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/uploads/2026/11/Image-1-e1794406145374.png" /><br><p>Moradores de Montes Claros terão acesso a cursos profissionalizantes gratuitos em janeiro de 2027, com oportunidades de capacitação em diferentes áreas. Entre as formações previstas está o curso de Pedreiro de Alvenaria, voltado à preparação de trabalhadores para atender à demanda do mercado da construção civil.</p>
+<p>A iniciativa é resultado de uma parceria entre o município e o Instituto Federal do Norte de Minas Gerais (IFNMG), por meio do Campus Village do Lago. As capacitações têm como objetivo ampliar as possibilidades de inserção profissional e geração de renda.</p>
+<p><strong>Curso de Pedreiro terá 160 horas de duração</strong></p>
+<p>Uma das principais oportunidades será oferecida pelo programa Acredita no Primeiro Passo. O curso de Pedreiro de Alvenaria terá carga horária aproximada de 160 horas, com atividades práticas voltadas à preparação dos alunos para atuar na construção civil.</p>
+<p>Segundo a diretora municipal de Qualificação, Emprego e Renda da Secretaria de Assistência Social, Patrícia Jabur, a proposta é oferecer formação que contribua para atender à procura por profissionais qualificados no mercado de trabalho.</p>
+<p>A programação também contará com capacitação em outras áreas, incluindo manutenção de ar-condicionado.</p>
+<p><strong>Quem pode participar</strong></p>
+<p>As vagas são destinadas a pessoas com mais de 18 anos inscritas no Cadastro Único (CadÚnico). Os cursos serão gratuitos e os participantes também terão acesso a apoio estudantil, com oferta de lanche e vale-transporte, para facilitar a frequência e a permanência nas atividades.</p>
+<p><strong>Informações e inscrições</strong></p>
+<p>Os interessados em participar ou obter informações sobre as capacitações podem entrar em contato com a Diretoria Municipal de Qualificação, Emprego e Renda pelo telefone (38) 2211-3812.</p>
+]]></content:encoded><guid isPermaLink="false">219714</guid><pubDate>Wed, 11 Nov 2026 11:10:22 +0000</pubDate></item><item><title>São Francisco decreta situação de emergência após fortes chuvas e alagamentos</title><link>https://webterra.com.br/2026/11/11/sao-francisco-decreta-situacao-de-emergencia-apos-fortes-chuvas-e-alagamentos/</link><description>Com o decreto, todos os órgãos municipais poderão ser mobilizados para atuar nas ações de resposta ao desastre e na recuperação das áreas atingidas, sob coordenação da Coordenadoria Municipal de Proteção e Defesa Civil (COMPDEC).
+</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-14.09.10-320x400.jpeg" /><br><p>A Prefeitura de São Francisco, no Norte de Minas, decretou situação de emergência nas áreas afetadas pelas fortes chuvas que atingiram o município na última segunda-feira (9). A medida foi oficializada pelo Decreto nº 051.</p>
+<p>De acordo com o documento, entre as áreas mais afetadas estão os bairros Luzia, Centro, Funcionários, Sagrada Família, Jardim Regalito, Mirante, São Lucas, Santo Antônio e São José, além de outras localidades que também sofreram impactos.</p>
+<p>Com o decreto, todos os órgãos municipais poderão ser mobilizados para atuar nas ações de resposta ao desastre e na recuperação das áreas atingidas, sob coordenação da Coordenadoria Municipal de Proteção e Defesa Civil (COMPDEC).</p>
+<figure aria-describedby="caption-attachment-219727" class="wp-caption alignnone" id="attachment_219727" style="width: 320px"><img alt="" class="size-medium wp-image-219727" decoding="async" height="400" loading="lazy" src="https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-14.09.10-320x400.jpeg" width="320"/><figcaption class="wp-caption-text" id="caption-attachment-219727"><strong>Foto: Defesa Civil São Francisco</strong></figcaption></figure>
+<p>O documento também autoriza a convocação de voluntários e a realização de campanhas de arrecadação de recursos para reforçar a assistência às famílias afetadas.</p>
+<p>Entre as medidas previstas, as autoridades e os agentes da Defesa Civil poderão entrar em residências em caso de risco iminente, para prestar socorro ou determinar a evacuação dos moradores. O decreto também prevê a possibilidade de desapropriação de imóveis comprovadamente localizados em áreas de risco intensificado de desastres.</p>
+<p>Ainda conforme o documento, ficam dispensados de licitação os contratos de aquisição de bens necessários às atividades de resposta dos desastres, de prestação de serviços e de obras relacionadas com a reabilitação dos cenários dos desastres, desde que sejam concluídas no prazo máximo de 180 dias.</p>
+<h2 class="single-title entry-title">São Francisco registrou 72 milímetros de chuva em uma hora e alagou ruas, casas e CEMEIs</h2>
+<figure aria-describedby="caption-attachment-219725" class="wp-caption alignnone" id="attachment_219725" style="width: 320px"><img alt="" class="size-medium wp-image-219725" data-smush-webp-fallback='{"src":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f-320x400.jpeg","srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f-320x400.jpeg 320w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f-819x1024.jpeg 819w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f-768x960.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f-450x563.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f-780x975.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f-150x188.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/f.jpeg 1024w"}' decoding="async" height="400" loading="lazy" sizes="auto, (max-width: 320px) 100vw, 320px" src="https://webterra.com.br/wp-content/smush-webp/2026/11/f-320x400.jpeg.webp" srcset="https://webterra.com.br/wp-content/smush-webp/2026/11/f-320x400.jpeg.webp 320w, https://webterra.com.br/wp-content/smush-webp/2026/11/f-819x1024.jpeg.webp 819w, https://webterra.com.br/wp-content/smush-webp/2026/11/f-768x960.jpeg.webp 768w, https://webterra.com.br/wp-content/smush-webp/2026/11/f-450x563.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/11/f-780x975.jpeg.webp 780w, https://webterra.com.br/wp-content/uploads/2026/11/f-150x188.jpeg 150w, https://webterra.com.br/wp-content/uploads/2026/11/f.jpeg 1024w" width="320"/><figcaption class="wp-caption-text" id="caption-attachment-219725"><strong>Foto: Defesa Civil São Francisco</strong></figcaption></figure>
+<p class="x12ofw9d">A tempestade começou por volta das 18h da segunda-feira (9) e assustou moradores. Em algumas casas, a água chegou a atingir um metro de altura.</p>
+<p data-mrf-recirculation="Matéria - Links no Texto" data-track-category="Link no Texto" data-track-links="">Segundo o coordenador da Defesa Civil Municipal, Romenig Barbosa Martins, foram registrados cerca de 72 milímetros de chuva em apenas uma hora. Depois, a chuva continuou, mas com menor intensidade.</p>
+<div id="chunk-2ub77">
+<div class="mc-column content-text active-extra-styles" data-block-id="2" data-block-type="unstyled" data-block-weight="20">
+<p class="x12ofw9d">Diversos bairros foram afetados, entre eles Sagrada Família, Centro, São José, Santo Antônio e Jardim Realito. Ao todo, 25 famílias receberam atendimento da Defesa Civil.</p>
+<figure aria-describedby="caption-attachment-219724" class="wp-caption alignnone" id="attachment_219724" style="width: 320px"><img alt="" class="size-medium wp-image-219724" data-smush-webp-fallback='{"src":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1-320x400.jpeg","srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1-320x400.jpeg 320w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1-819x1024.jpeg 819w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1-768x960.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1-450x563.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1-780x975.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1-150x188.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/r-1.jpeg 1024w"}' decoding="async" height="400" loading="lazy" sizes="auto, (max-width: 320px) 100vw, 320px" src="https://webterra.com.br/wp-content/smush-webp/2026/11/r-1-320x400.jpeg.webp" srcset="https://webterra.com.br/wp-content/smush-webp/2026/11/r-1-320x400.jpeg.webp 320w, https://webterra.com.br/wp-content/smush-webp/2026/11/r-1-819x1024.jpeg.webp 819w, https://webterra.com.br/wp-content/smush-webp/2026/11/r-1-768x960.jpeg.webp 768w, https://webterra.com.br/wp-content/smush-webp/2026/11/r-1-450x563.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/11/r-1-780x975.jpeg.webp 780w, https://webterra.com.br/wp-content/uploads/2026/11/r-1-150x188.jpeg 150w, https://webterra.com.br/wp-content/uploads/2026/11/r-1.jpeg 1024w" width="320"/><figcaption class="wp-caption-text" id="caption-attachment-219724"><strong>Foto: Defesa Civil São Francisco</strong></figcaption></figure>
+<p data-mrf-recirculation="Matéria - Links no Texto" data-track-category="Link no Texto" data-track-links="">Ainda conforme a Defesa Civil, os moradores deixaram as casas durante a tempestade e retornaram depois que o nível da água baixou. Apenas uma família precisou deixar a própria casa.</p>
+</div>
+</div>
+<p class="x12ofw9d">Os impactos da chuva também atingiram unidades de ensino do município. As aulas foram suspensas na terça-feira (10) no CEMEI Monteiro Lobato e no CEMEI Pedacinho do Céu. De acordo com o coordenador da Defesa Civil, as duas unidades ficaram alagadas durante a tempestade e passarão por serviços de limpeza antes da retomada das atividades.</p>
+]]></content:encoded><guid isPermaLink="false">219720</guid><pubDate>Wed, 11 Nov 2026 14:15:58 +0000</pubDate></item><item><title>Base do Ateneu vive experiência de alto nível em amistosos contra Atlético e Cruzeiro</title><link>https://webterra.com.br/2026/11/11/base-do-ateneu-vive-experiencia-de-alto-nivel-em-amistosos-contra-atletico-e-cruzeiro/</link><description>Intercâmbio em Belo Horizonte proporcionou aos atletas do Sub-14 e Sub-16 a oportunidade de enfrentar duas das principais forças do futebol
+</description><content:encoded><![CDATA[<img src="https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57.jpeg.webp" /><br><p style="text-align: left;">A formação de atletas também se constrói diante dos grandes desafios. Com esse propósito, as equipes Sub-14 e Sub-16 do Ateneu Futebol Clube estiveram em Belo Horizonte, nos dias 9 e 10 de novembro, para uma série de amistosos contra Atlético-MG e Cruzeiro, dois dos principais clubes do futebol brasileiro.</p>
+<p style="text-align: left;">A iniciativa teve como objetivo proporcionar aos jovens atletas uma experiência de alto nível, ampliar o repertório competitivo e permitir avaliações técnicas diante de adversários de tradição na formação de jogadores.</p>
+<figure aria-describedby="caption-attachment-219741" class="wp-caption alignnone" id="attachment_219741" style="width: 400px"><img alt="" class="size-medium wp-image-219741" data-smush-webp-fallback='{"src":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-400x225.jpeg","srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-400x225.jpeg 400w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-1024x575.jpeg 1024w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-768x431.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-1536x862.jpeg 1536w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-450x253.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-780x438.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57-150x84.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.49.57.jpeg 1280w"}' decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 400px) 100vw, 400px" src="https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-400x225.jpeg.webp" srcset="https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-400x225.jpeg.webp 400w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-1024x575.jpeg.webp 1024w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-768x431.jpeg.webp 768w, https://webterra.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-1536x862.jpeg 1536w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-450x253.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-780x438.jpeg.webp 780w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57-150x84.jpeg.webp 150w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.49.57.jpeg.webp 1280w" width="400"/><figcaption class="wp-caption-text" id="caption-attachment-219741"><strong>Foto: Gian Marlon</strong></figcaption></figure>
+<p style="text-align: left;">A programação começou na segunda-feira (9), na Cidade do Galo, em Vespasiano. Diante do Atlético-MG, o Sub-14 do Broca conquistou uma importante vitória por 2 a 1, com dois gols do meia Alkimim, que marcou um deles diretamente em cobrança de escanteio, anotando um belo gol olímpico. Já o Sub-16 enfrentou uma partida difícil e acabou superado por 4 a 1.</p>
+<p style="text-align: left;">Na terça-feira (10), foi a vez de medir forças com o Cruzeiro, na Toca da Raposa I. No primeiro confronto do dia, o Sub-14 teve um duelo equilibrado, mas acabou sofrendo algoz por 1 a 0. Na sequência, o Sub-16 protagonizou uma partida bastante disputada, marcada pelo equilíbrio físico, técnico e tático, e garantiu um empate sem gols em 0 a 0.</p>
+<figure aria-describedby="caption-attachment-219742" class="wp-caption alignnone" id="attachment_219742" style="width: 300px"><img alt="" class="size-medium wp-image-219742" data-smush-webp-fallback='{"src":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46-300x400.jpeg","srcset":"https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46-300x400.jpeg 300w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46-768x1024.jpeg 768w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46-450x600.jpeg 450w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46-780x1040.jpeg 780w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46-640x853.jpeg 640w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46-150x200.jpeg 150w, https:\/\/webterra.com.br\/wp-content\/uploads\/2026\/11\/WhatsApp-Image-2026-11-11-at-14.48.46.jpeg 960w"}' decoding="async" height="400" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46-300x400.jpeg.webp" srcset="https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46-300x400.jpeg.webp 300w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46-768x1024.jpeg.webp 768w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46-450x600.jpeg.webp 450w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46-780x1040.jpeg.webp 780w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46-640x853.jpeg.webp 640w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46-150x200.jpeg.webp 150w, https://webterra.com.br/wp-content/smush-webp/2026/11/WhatsApp-Image-2026-11-11-at-14.48.46.jpeg.webp 960w" width="300"/><figcaption class="wp-caption-text" id="caption-attachment-219742"><strong>Foto: Gian Marlon</strong></figcaption></figure>
+<p style="text-align: left;">O intercâmbio, por sua vez, representou mais um passo no trabalho de desenvolvimento das categorias de base do Ateneu. A iniciativa permitiu os jogadores vivenciar novas exigências, identificar pontos de evolução e compreender melhor os desafios do futebol de alto rendimento.</p>
+]]></content:encoded><guid isPermaLink="false">219737</guid><pubDate>Wed, 11 Nov 2026 15:55:22 +0000</pubDate></item></channel></rss>
